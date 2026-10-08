@@ -1,3 +1,3 @@
 # dotfiles
 
-## [Иструкия по web config](web/Instructions.md)
+## [Иструкия по web config](Web/Instructions.md)
