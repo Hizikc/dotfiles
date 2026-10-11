@@ -2,5 +2,5 @@
 
 ## Web:
 
-### [Иструкия по vite](web/vite/Instructions.md)
+### [Иструкия по vite](Web/vite/Instructions.md)
  
