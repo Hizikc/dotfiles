@@ -1,3 +1,5 @@
 # dotfiles
 
-## [Иструкия по vite](web/vite/Instructions.md)
+## Web:
+
+### [Иструкия по vite](web/vite/Instructions.md)
