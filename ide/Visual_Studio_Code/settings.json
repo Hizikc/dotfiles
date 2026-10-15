@@ -1,0 +1,9 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "right",
+    "chat.agent.enabled": false,
+    "editor.fontSize": 22,
+    "editor.fontFamily": "'Monaspace Krypton', monospace",
+    "workbench.colorTheme": "Tokyo Night",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+}
