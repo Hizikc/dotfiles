@@ -6,4 +6,6 @@
     "editor.fontFamily": "'Monaspace Krypton', monospace",
     "workbench.colorTheme": "Tokyo Night",
     "editor.unicodeHighlight.ambiguousCharacters": false,
+    //Terminal
+    "terminal.integrated.fontSize": 20,
 }
